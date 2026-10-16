@@ -60,3 +60,11 @@ Sales-Data-Analysis/
 - Practice writing SQL queries against a dataset.
 - Build an Excel or Power BI dashboard.
 - Use a larger, clearly documented dataset and compare results.
+
+  ## Project Visualizations
+
+### Revenue by Product
+![Revenue by Product](revenue_by_product.png)
+
+### Monthly Revenue
+![Monthly Revenue](monthly_revenue.png)
